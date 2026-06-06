@@ -13,7 +13,7 @@ def start(message):
     markup.add(
         types.InlineKeyboardButton(
             "🎁 TẢI APP NHẬN +100K MIỄN PHÍ",
-            url="ee88vn.pro"
+            url="http://ee88vn.pro/"
         )
     )
 
